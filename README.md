@@ -2,19 +2,18 @@
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-On second try, I am looking for some usable and subtle background musics for
-video making.  You know, those that fills the void and does not make sense
-to hire an arist (as in, using their craft will be insulting to them). Let's
-try something more instrumental.
+Let's explore a bit for ambient chillwave instrumental type of soundtracks for
+background musics use. That way, at least I can have something to fill in the
+quiet void.
 
 ```
 #electronicmusic #chillwave #ambient #instrumental #piano
 
-  File: Audios/Eternal-Reflections-I.mp3
+  File: Audios/01_Eternal-Reflections-I.mp3
   Size: 5746688         Blocks: 11224      IO Block: 4096   regular file
-Access: 2025-10-31 10:33:43.771383956 +0800
-Modify: 2025-10-31 11:13:26.909499924 +0800
-Change: 2025-10-31 11:13:39.529554305 +0800
+Access: 2025-11-20 07:55:48.280646324 +0800
+Modify: 2025-11-02 18:11:11.469309636 +0800
+Change: 2025-11-20 07:56:02.872705905 +0800
  Birth: 2025-07-20 11:53:28.910211579 +0800
 
 On Published Date: 2025-04-25
@@ -34,6 +33,7 @@ On YouTube since : 2025-04-26
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 * [Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf)
 * [Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -54,11 +54,15 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Eternal Reflections I
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-eternal-reflections-i
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Eternal Reflections I
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-eternal-reflections-i
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Video made in: https://vizzy.io/
+Procure: https://github.com/ChewKeanHo/soundtracks-eternal-reflections-i
 --------------------------------------------------------------------------------
 ```
 

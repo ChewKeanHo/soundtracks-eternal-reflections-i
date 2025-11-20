@@ -5,7 +5,7 @@ TITLE
 
 
 DESCRIPTION
-On second try, I am looking for some usable and subtle background musics for video making.  You know, those that fills the void and does not make sense to hire an arist (as in, using their craft will be insulting to them). Let's try something more instrumental.
+Let's explore a bit for ambient chillwave instrumental type of soundtracks for background musics use. That way, at least I can have something to fill in the quiet void.
 
 #electronicmusic #chillwave #ambient #instrumental #piano
 
@@ -18,12 +18,15 @@ Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAi6ksvBnEv6YIMeGpKI
 
 § METADATA
 ━━━━━━━━━━
-Music made in: https://www.udio.com/
+Title: Eternal Reflections I
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-eternal-reflections-i
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
 Video made in: https://vizzy.io/
-Project by: (Holloway) Chew, Kean Ho + UDIO
-Lyrics by: (Holloway) Chew, Kean Ho + AI translation assistance
-Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: https://github.com/ChewKeanHo/soundtracks-eternal-reflections-i
+Procure: https://github.com/ChewKeanHo/soundtracks-eternal-reflections-i
 
 
 § FAQ
